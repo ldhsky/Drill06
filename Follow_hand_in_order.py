@@ -83,6 +83,6 @@ while moving:
 
     frame += 1
 
-    delay(0.01)
+    delay(0.02)
 
 close_canvas()
